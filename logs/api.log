@@ -1,0 +1,19 @@
+05-05-2022 15:01:27.408 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+05-05-2022 15:01:27.410 [Gauge] [INFO] Initializing specs cache with 1 specs
+05-05-2022 15:01:27.410 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:01:27.410 [Gauge] [INFO] Initializing steps cache with 1 steps
+05-05-2022 15:01:27.410 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51585
+05-05-2022 15:01:27.435 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs
+05-05-2022 15:01:27.436 [Gauge] [DEBUG] Found 1 files
+05-05-2022 15:01:32.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+05-05-2022 15:01:32.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+05-05-2022 15:01:32.817 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+05-05-2022 15:01:32.818 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+05-05-2022 15:01:32.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+05-05-2022 15:01:32.819 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+05-05-2022 15:02:02.708 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:02:02.709 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:02:02.763 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:02:02.776 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:14:33.540 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
+05-05-2022 15:14:33.569 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseWrongPw\specs\example.spec
